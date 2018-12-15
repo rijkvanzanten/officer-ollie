@@ -1,4 +1,4 @@
-$marzipan-400: #FFEBB8;
+$marzipan-400: #ffebb8;
 $marzipan-500: #e7c673;
 $marzipan-600: #c7ab64;
 $marzipan-700: #a18a50;
@@ -33,6 +33,6 @@ $font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
   Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 $font-display: "Poppins", sans-serif;
 
-$ease: cubic-bezier(0.4, 0.0, 0.2, 1);
-$ease-enter: cubic-bezier(0.0, 0.0, 0.2, 1);
-$ease-leave: cubic-bezier(0.4, 0.0, 1, 1);
+$ease: cubic-bezier(0.4, 0, 0.2, 1);
+$ease-enter: cubic-bezier(0, 0, 0.2, 1);
+$ease-leave: cubic-bezier(0.4, 0, 1, 1);

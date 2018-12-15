@@ -19,8 +19,18 @@ body {
   font-family: $font-body;
 }
 
+img {
+  max-width: 100%;
+}
+
+hr {
+  border: none;
+  border-bottom: 2px solid $red-900;
+}
+
 p {
   margin-bottom: 1.3em;
+  max-width: 50rem;
 }
 
 h1,
@@ -55,4 +65,13 @@ small,
   font-size: 0.8em;
 }
 
+th {
+  text-align: left;
+}
+
+td:not(:last-of-type) {
+  padding-right: 32px;
+}
+
 @import "navigation";
+@import "content";
