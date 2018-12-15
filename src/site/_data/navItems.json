@@ -1,0 +1,18 @@
+[
+  {
+    "url": "/research/",
+    "name": "Research"
+  },
+  {
+    "url": "/design/",
+    "name": "Design"
+  },
+  {
+    "url": "/prototype/",
+    "name": "Prototype"
+  },
+  {
+    "url": "/video/",
+    "name": "Video"
+  }
+]

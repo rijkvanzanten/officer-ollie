@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/main.css">
+    <title><%= title %></title>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">Officer Ollie and the Mystery of Roosevelt Island</a></h1>
+      <nav>
+        <ul>
+          <% for (let i in navItems) { %>
+          <li>
+            <% if (page.url === navItems[i].url) { %>
+            <span><%= navItems[i].name %></span>
+            <% } else { %>
+            <a href="<%= navItems[i].url %>"><%= navItems[i].name %></a>
+            <% } %>
+          </li>
+          <% } %>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <pre>
+        <%= JSON.stringify(page) %>
+      </pre>
+      <%- content %>
+    </main>
+  </body>
+</html>
