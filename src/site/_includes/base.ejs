@@ -2,15 +2,26 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/main.css">
     <title><%= title %></title>
   </head>
   <body>
-    <label for="toggle-menu">Menu</label>
     <input type="checkbox" name="toggle-menu" id="toggle-menu">
+    <label for="toggle-menu">Menu</label>
     <header>
-      <h1><a href="/">Officer Ollie and the Mystery of Roosevelt Island</a></h1>
+      <img
+        sizes="(max-width: 500px) 80vw, 500px"
+        srcset="
+          /ollie-150.png 150w,
+          /ollie-249.png 249w,
+          /ollie-330.png 330w,
+          /ollie-402.png 402w,
+          /ollie-500.png 500w"
+        src="/ollie-500.png"
+        alt="Officer Ollie">
+      <h1><a href="/">Officer Ollie</a></h1>
+      <p>and the mystery of <br>Roosevelt Island</p>
       <nav>
         <ul>
           <% for (let i in navItems) { %>
@@ -26,9 +37,6 @@
       </nav>
     </header>
     <main>
-      <pre>
-        <%= JSON.stringify(page) %>
-      </pre>
       <%- content %>
     </main>
   </body>
