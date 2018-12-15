@@ -10,6 +10,14 @@
 
 html {
   font-size: 1em;
+
+  @media screen and (min-width: 1200px) {
+    font-size: 1.12em;
+  }
+
+  @media screen and (min-width: 1400px) {
+    font-size: 1.2em;
+  }
 }
 
 body {
@@ -73,5 +81,14 @@ td:not(:last-of-type) {
   padding-right: 32px;
 }
 
+#content {
+  padding: 32px;
+  padding-top: 80px;
+
+  @media screen and (min-width: 700px) {
+    padding-top: 32px;
+  }
+}
+
+
 @import "navigation";
-@import "content";

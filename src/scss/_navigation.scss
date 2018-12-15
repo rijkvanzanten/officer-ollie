@@ -11,6 +11,10 @@ body > header {
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
 
+  a:hover {
+    color: $red-500;
+  }
+
   img {
     width: 70vw;
     display: block;
@@ -114,6 +118,7 @@ input[name="toggle-menu"]:checked {
 
   body > header {
     transform: translateX(0%);
+    transition: none;
     width: 16rem;
     border-right: 1px solid $red-900;
 
