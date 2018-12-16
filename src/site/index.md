@@ -24,7 +24,7 @@ We found an organization that promotes awareness of the island's unique story an
 
 ### Walking Tour
 
-We noticed that the RIHS has a walking tour available on [their website](http://rihs.us/riwalk/). While the content of the walking tour is pretty good, there was a lot to gain in terms of usability and design. The tour wasn't optimized for mobile use and is clearly meant to be used before you go to the island. We decided to turn this into our project.
+The RIHS has an existing walking tour available on [their website](http://rihs.us/riwalk/). While the content of the walking tour is pretty comprehensive, there were a lot to gain in terms of usability and design. The tour wasn't optimized for mobile use and is clearly meant to be used before you go to the island. We decided to turn this into our project.
 
 ## Problem Definition
 
@@ -54,7 +54,7 @@ The focus of this project will be on ideation and visual design.
 
 ## Trends and Threats
 
-Roosevelt Island has been gaining a lot of popularity lately in [various](https://www.cnn.com/travel/article/roosevelt-island-things-to-do-new-york/index.html) [travel blogs](https://perceptivetravel.com/blog/2018/10/18/a-manhattan-oasis-on-roosevelt-island/). This will increase people's awareness and interest in going to the island. That being said, the subject matter. 
+Roosevelt Island has been gaining a lot of popularity lately in [various](https://www.cnn.com/travel/article/roosevelt-island-things-to-do-new-york/index.html) [travel blogs](https://perceptivetravel.com/blog/2018/10/18/a-manhattan-oasis-on-roosevelt-island/). This will increase people's awareness and interest in going to the island. However, it'll still be challenge to motivate people to make the trip to the island because public transit options are limited.
 
 ## Product Vision
 
