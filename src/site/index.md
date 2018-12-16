@@ -56,6 +56,6 @@ The focus of this project will be on ideation and visual design.
 
 Roosevelt Island has been gaining a lot of popularity lately in [various](https://www.cnn.com/travel/article/roosevelt-island-things-to-do-new-york/index.html) [travel blogs](https://perceptivetravel.com/blog/2018/10/18/a-manhattan-oasis-on-roosevelt-island/). This will increase people's awareness and interest in going to the island. That being said, the subject matter. 
 
-## Productvision
+## Product Vision
 
 We want to deliver an app concept that will draw users to the island, teach them about the history of the island, and is a fun interaction in order to make the user finish the tour.
