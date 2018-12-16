@@ -240,16 +240,18 @@ We used the methods of Atomic Design.
 
 ## Character Design
 Officer Ollie
-![](./Image from iOS (1).jpg)
+![](./character-ollie.jpg)
+![](./character-ollie-2.jpg)
+
 
 Detective Dan
-![](./Image from iOS.jpg)
+![](./character-dan.jpg)
 
 Fire Fighter Frank 
-![](./Image from iOS (3).jpg)
+![](./characger-frank.jpg)
 
 Other Characters
-![](./Illustration7.png)
+![](./characters.png)
 
 
 
