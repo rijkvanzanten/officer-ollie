@@ -58,4 +58,4 @@ Roosevelt Island has been gaining a lot of popularity lately in [various](https:
 
 ## Product Vision
 
-We want to deliver an app concept that will draw users to the island, teach them about the history of the island, and is a fun interaction in order to make the user finish the tour.
+We envision creating an app that will draw users to the island, educate them about the rich history of the island, and offer a fun experience for users that will not only encourage them to finish the tour but will also make them want to return to the island in the future.
