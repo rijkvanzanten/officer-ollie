@@ -241,17 +241,22 @@ We used the methods of Atomic Design.
 ## Character Design
 
 Officer Ollie
+
 ![](/character-ollie.jpg)
+
 ![](/character-ollie-2.jpg)
 
 
 Detective Dan
+
 ![](/character-dan.jpg)
 
 Fire Fighter Frank 
+
 ![](/character-frank.jpg)
 
 Other Characters
+
 ![](/characters.png)
 
 
