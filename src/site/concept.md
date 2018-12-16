@@ -236,22 +236,23 @@ We mainly has Three typography. The logo typography we used are Poppins and Amer
 
 We used the methods of Atomic Design. 
 
-![](./design-system.png)
+![](/design-system.png)
 
 ## Character Design
+
 Officer Ollie
-![](./character-ollie.jpg)
-![](./character-ollie-2.jpg)
+![](/character-ollie.jpg)
+![](/character-ollie-2.jpg)
 
 
 Detective Dan
-![](./character-dan.jpg)
+![](/character-dan.jpg)
 
 Fire Fighter Frank 
-![](./characger-frank.jpg)
+![](/character-frank.jpg)
 
 Other Characters
-![](./characters.png)
+![](/characters.png)
 
 
 
