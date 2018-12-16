@@ -29,7 +29,7 @@ The purpose of the Society is to recover, maintain and disseminate the record of
 
 The current Historical Tour on the Island is on a website. The website is very hard to navigate to and it has very little exposure.  The tour has two different path: South Tour and North Tour. Each path has difference stops, which you can learn about through their website. However the website doesn't really work on the mobile. 
 
-![](/riht.png)
+![](./riht.png)
 
 We learn about that the website has detailed information of each location. It describes about the important events and images of different time period.  
 

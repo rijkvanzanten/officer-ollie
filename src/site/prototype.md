@@ -9,7 +9,7 @@ title: Officer Ollie | Prototype
 
 We created a portable paper prototype because it would enable us to test our concepts and the general features of the application with multiple users without having them be at the island physically. The paper prototype consisted of a map of the island with the stops marked and cards representing the different screens users would see on their smartphones. 
 
-![](/paper-prototype.png)
+![](./paper-prototype.png)
 
 ## Paper Prototype Testing + Insights
 
@@ -37,5 +37,3 @@ We tested our hi-fi prototype with 1 user on the island. The following are her m
 - “I never thought about the history of Roosevelt Island, even though I live on the island. But I would want to play this game.”
 
 The result of the testing was surprisingly successful. We got a lot of positive feedback from our test user. However, we believe we still need to conduct more tests to learn more about the success of our design.
-
-![]()

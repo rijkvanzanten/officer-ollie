@@ -236,7 +236,7 @@ We mainly has Three typography. The logo typography we used are Poppins and Amer
 
 We used the methods of Atomic Design. 
 
-![](/design-system.png)
+![](./design-system.png)
 
 ## Character Design
 
