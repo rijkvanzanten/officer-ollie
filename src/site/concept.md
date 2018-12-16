@@ -239,5 +239,17 @@ We used the methods of Atomic Design.
 ![](./design-system.png)
 
 ## Character Design
+Officer Ollie
+![](./Image from iOS (1).jpg)
 
-## Illustrations
+Detective Dan
+![](./Image from iOS.jpg)
+
+Fire Fighter Frank 
+![](./Image from iOS (3).jpg)
+
+Other Characters
+![](./Illustration7.png)
+
+
+
